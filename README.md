@@ -1,0 +1,2 @@
+# logicaProposicional
+Logica Proposicional 🧠 
