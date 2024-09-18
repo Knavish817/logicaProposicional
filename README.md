@@ -2,5 +2,4 @@
 Logica Proposicional 🧠 
 
 🧠
-No vi la película, pero leí la novela: 
-p=vi la pelicula 
+un poco de practica con logica propociosional con toma de deciones en reduccion, analisis de premisas y proposiciones.
