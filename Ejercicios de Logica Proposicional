@@ -1,1 +1,48 @@
+1-No vi la película, pero leí la novela: 
+
+p=vi la pelicula
+q=lei la novela 
+
+seria : ¬p∧q
+
+2-Ni vi la película ni  leí lanovela:
+seria: ¬p∧¬q
+
+3-No es cierto que viese la película y leyese la novela:
+¬(p∧q)
+
+4- Vi la película aunque no leí la novela
+
+p∧¬q
+************************************************************
+5-No me gusta trasnochar ni madrugar:
+p=me gusta transnochar q=me gusta madrugar 
+
+¬p∧¬q
+************************************************************
+6- Llueve y o bien nieva o sopla el viento
+p=llueve q=nieva r=sopla el viento 
+
+p∧(qvr)
+7-O está lloviendo y nevando o está soplando el viento:
+(p∧q)v r
+**************************************************************
+8-Si hay verdadera democracia, entonces no hay detenciones arbitrarias ni otras
+violaciones de los derechos civiles
+
+p=hay verdadera democracia q= hay detenciones arbitrarias r=otras violaciones de los derecho civiles 
+p→(¬q∧¬r)
+**************************************************************************
+9-Roberto hará el doctorado cuando y solamente cuando obtenga la licenciatura:
+p=Roberto hara el doctorado q= obtiene la licenciatura 
+
+p⟷q
+
+*****************************************************************************************++***
+Si viene en tren, llegará antes de las seis. Si viene en coche, llegará antes de las
+seis. Luego, tanto si viene en tren como si viene en coche, llegará antes de las seis:
+p= viene en tren q=llegara antes de las seis r=viene en coche 
+
+(p→q).(r→q)⫣(pvr)→q
+
 
